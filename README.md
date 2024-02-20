@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @BrentDean
+- 👀 I’m interested in ... Robotics, Arudino, Networking
+- 🌱 I’m currently learning ... Cybersecurity
+- 💞️ I’m looking to collaborate on ... DIY Project
