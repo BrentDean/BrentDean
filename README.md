@@ -14,6 +14,12 @@ A rebuildable **AWS three-tier infrastructure lab** using Terraform and Ansible.
 
 **AWS · Terraform · Ansible · Linux · Docker · k3s · Python · PostgreSQL · CI**
 
+### [Porter — Local-First AI & Automation Control Plane](https://github.com/BrentDean/porter)
+
+A Python-based local-first automation project that uses deterministic tools before model inference. Includes policy-controlled provider routing, SQLite-backed state, Linux service/storage actions, FastAPI and desktop interfaces, tests, and operational metrics. Built to explore AI integration as part of a conventional, observable software system.
+
+**Python · Linux · FastAPI · SQLite · Ollama · Docker · Prometheus · Grafana**
+
 ### [HoneyNet](https://github.com/BrentDean/HoneyNet)
 
 Analysis of telemetry from an Internet-facing T-Pot multi-honeypot deployment. Investigates credential attacks, scanning, service probes, and post-login behavior using Cowrie and Suricata data.
@@ -25,12 +31,6 @@ Analysis of telemetry from an Internet-facing T-Pot multi-honeypot deployment. I
 A custom-PCB 8-bit computer project with Python assembly/ROM tooling and an Arduino-based EEPROM programming workflow. An exploration of how software, control logic, buses, and physical hardware meet.
 
 **Computer architecture · Python · Digital logic · KiCad · Embedded hardware**
-
-### Porter — Local-First AI & Automation Control Plane
-
-A Python-based local-first automation project that uses deterministic tools before model inference. Includes policy-controlled provider routing, SQLite-backed state, Linux service/storage actions, FastAPI and desktop interfaces, tests, and operational metrics. Built to explore AI integration as part of a conventional, observable software system.
-
-**Python · Linux · FastAPI · SQLite · Ollama · Docker · Prometheus · Grafana**
 
 ## Professional technical work
 
