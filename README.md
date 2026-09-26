@@ -20,6 +20,12 @@ A Python-based local-first automation project that uses deterministic tools befo
 
 **Python · Linux · FastAPI · SQLite · Ollama · Docker · Prometheus · Grafana**
 
+### [TorKit — Private Onion Service Platform](https://github.com/BrentDean/torKit)
+
+An OnionShare-derived Linux platform for persistent private onion services with a host-side operator layer, Docker isolation, SQLite-backed Board state, CI validation, encrypted Restic backup/restore, and optional Terraform-managed AWS S3 recovery infrastructure.
+
+**Python · Linux · Tor · OnionShare · Docker · SQLite · Restic · Terraform · AWS S3 · GitHub Actions**
+
 ### [HoneyNet](https://github.com/BrentDean/HoneyNet)
 
 Analysis of telemetry from an Internet-facing T-Pot multi-honeypot deployment. Investigates credential attacks, scanning, service probes, and post-login behavior using Cowrie and Suricata data.
