@@ -32,11 +32,11 @@ Analysis of telemetry from an Internet-facing T-Pot multi-honeypot deployment. I
 
 **Linux · T-Pot · Suricata · Networking · Security telemetry**
 
-### [8-Bit Computer](https://github.com/BrentDean/8-Bit)
+### [Cisco IOS XE Network Change Validation](https://github.com/BrentDean/cisco-network-automation)
 
-A custom-PCB 8-bit computer project with Python assembly/ROM tooling and an Arduino-based EEPROM programming workflow. An exploration of how software, control logic, buses, and physical hardware meet.
+Python automation for live Cisco IOS XE state validation, drift detection, guarded configuration changes, and rollback verification. Uses RESTCONF, NETCONF/YANG, and pyATS/Genie to collect and cross-check device state, apply narrowly scoped changes, validate expected outcomes, and confirm restoration to the original baseline.
 
-**Computer architecture · Python · Digital logic · KiCad · Embedded hardware**
+**Cisco IOS XE · Python · RESTCONF · NETCONF · YANG · pyATS · Genie · Network automation · CI**
 
 ## Professional technical work
 
