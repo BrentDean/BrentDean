@@ -6,6 +6,8 @@ I build Linux-based systems and work on making them repeatable, observable, secu
 
 I earned a **B.S. in Computer Science from Brooklyn College** (cum laude; departmental honors) after an earlier career in enterprise technology and technical operations.
 
+> **Portfolio note:** Public project repositories are curated release snapshots rather than mirrors of day-to-day development history, so public commit history is intentionally minimal where appropriate.
+
 ## Selected projects
 
 ### [Cloud Infrastructure Automation](https://github.com/BrentDean/cloud-infrastructure-automation)
@@ -32,7 +34,7 @@ A containerized Splunk Enterprise security telemetry lab with Python collectors 
 
 **Splunk Enterprise · Python · Linux · Docker · HEC · Fail2Ban · systemd · Security telemetry**
 
-### [HoneyNet](https://github.com/BrentDean/HoneyNet)
+### [HoneyNet](https://github.com/BrentDean/tpot-honeynet-analysis)
 
 Analysis of telemetry from an Internet-facing T-Pot multi-honeypot deployment. Investigates credential attacks, scanning, service probes, and post-login behavior using Cowrie and Suricata data.
 
