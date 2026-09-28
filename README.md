@@ -26,6 +26,12 @@ An OnionShare-derived Linux platform for persistent private onion services with 
 
 **Python · Linux · Tor · OnionShare · Docker · SQLite · Restic · Terraform · AWS S3 · GitHub Actions**
 
+### [Splunk LabOps — Security Telemetry Engineering](https://github.com/BrentDean/splunk-labops)
+
+A containerized Splunk Enterprise security telemetry lab with Python collectors for genuine SSH and Fail2Ban events from an Internet-facing Hetzner VPS. Uses authenticated HTTPS HEC ingestion, five-minute systemd automation, persistent collection state, index retention controls, structured authentication fields, and automated tests.
+
+**Splunk Enterprise · Python · Linux · Docker · HEC · Fail2Ban · systemd · Security telemetry**
+
 ### [HoneyNet](https://github.com/BrentDean/HoneyNet)
 
 Analysis of telemetry from an Internet-facing T-Pot multi-honeypot deployment. Investigates credential attacks, scanning, service probes, and post-login behavior using Cowrie and Suricata data.
@@ -46,6 +52,6 @@ At the **Icahn School of Medicine at Mount Sinai**, I built Linux/container-base
 
 - **Infrastructure & cloud:** Linux, AWS, Hetzner Cloud, Terraform, Ansible, Docker, Podman, k3s, networking, SSH, DNS, and TLS
 - **Automation & applications:** Python, Bash, SQL, GitHub Actions, pytest, REST APIs, FastAPI, MariaDB, PostgreSQL, and SQLite
-- **Reliability & security:** Prometheus, Grafana, health/readiness checks, backups and recovery, Caddy/Coraza WAF, Suricata, Wireshark, and tcpdump
+- **Reliability & security:** Prometheus, Grafana, Splunk Enterprise, security telemetry, health/readiness checks, backups and recovery, Caddy/Coraza WAF, Suricata, Wireshark, and tcpdump
 
 More project write-ups and technical notes: **[LaunchShell.org](https://launchshell.org/)** · [LinkedIn](https://www.linkedin.com/in/brentdean/)
