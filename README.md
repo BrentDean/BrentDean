@@ -16,6 +16,12 @@ A rebuildable **AWS three-tier infrastructure lab** using Terraform and Ansible.
 
 **AWS · Terraform · Ansible · Linux · Docker · k3s · Python · PostgreSQL · CI**
 
+### [Canonical MicroCloud — Three-Node Infrastructure Lab](https://github.com/BrentDean/MicroCloudLab)
+
+A reproducible **three-node Ubuntu MicroCloud lab** running on Debian KVM/libvirt VMs. Integrates LXD compute, MicroCeph distributed storage, and MicroOVN networking; deploys containers and a nested VM across the cluster, validates storage and connectivity, and uses cloud-init, Ansible, Ubuntu Pro, and Landscape for provisioning and management. Includes network isolation controls and documented verification evidence. Built as a **virtualized learning environment**, not a physical high-availability deployment.
+
+**Ubuntu · MicroCloud · LXD · MicroCeph · MicroOVN · KVM/libvirt · Ansible · Cloud-init · Landscape · Linux**
+
 ### [Porter — Local-First AI & Automation Control Plane](https://github.com/BrentDean/porter)
 
 A Python-based local-first automation project that uses deterministic tools before model inference. Includes policy-controlled provider routing, SQLite-backed state, Linux service/storage actions, FastAPI and desktop interfaces, tests, and operational metrics. Built to explore AI integration as part of a conventional, observable software system.
